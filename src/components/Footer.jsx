@@ -1,7 +1,7 @@
 import { Link, NavLink } from 'react-router-dom';
 import './Footer.css';
 
-const WHATSAPP_NUMBER = '919XXXXXXXXX';
+const WHATSAPP_NUMBER = '919652234056';
 
 export default function Footer() {
   const year = new Date().getFullYear();

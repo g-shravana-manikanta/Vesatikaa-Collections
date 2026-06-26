@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { NavLink, Link } from 'react-router-dom';
 import './Navbar.css';
 
-const WHATSAPP_NUMBER = '919XXXXXXXXX';
+const WHATSAPP_NUMBER = '919652234056';
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);

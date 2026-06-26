@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import './HeroSection.css';
 
-const WHATSAPP_NUMBER = '919XXXXXXXXX';
+const WHATSAPP_NUMBER = '919652234056';
 
 export default function HeroSection() {
   return (

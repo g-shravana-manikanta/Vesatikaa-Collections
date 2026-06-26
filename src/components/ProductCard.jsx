@@ -1,6 +1,6 @@
 import './ProductCard.css';
 
-const WHATSAPP_NUMBER = '919XXXXXXXXX';
+const WHATSAPP_NUMBER = '919652234056';
 
 export default function ProductCard({ product }) {
   const { name, collection, fabric, price, availability, image, whatsappMessage } = product;
