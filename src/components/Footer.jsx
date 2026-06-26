@@ -48,7 +48,7 @@ export default function Footer() {
             <p>India — 500 001</p>
           </address>
           <a href={`https://wa.me/${WHATSAPP_NUMBER}`} target="_blank" rel="noopener noreferrer" className="footer__link footer__link--whatsapp">
-            +91 9XXXXXXXXX
+            +91 9652234056
           </a>
         </div>
       </div>
