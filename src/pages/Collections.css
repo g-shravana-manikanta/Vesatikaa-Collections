@@ -1,0 +1,84 @@
+.collection-section {
+  padding: 80px 0;
+  border-bottom: 1px solid rgba(74, 25, 66, 0.08);
+}
+
+.collection-section:last-of-type {
+  border-bottom: none;
+}
+
+.collection-section:nth-child(even) {
+  background-color: rgba(242, 217, 208, 0.15);
+}
+
+.collection-section__header {
+  display: flex;
+  align-items: flex-start;
+  gap: 28px;
+  margin-bottom: 48px;
+}
+
+.collection-section__swatch {
+  width: 6px;
+  min-height: 80px;
+  border-radius: 4px;
+  flex-shrink: 0;
+  margin-top: 4px;
+}
+
+.collection-section__tagline {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 6px;
+}
+
+.collection-section__title {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  color: var(--plum);
+  margin-bottom: 10px;
+}
+
+.collection-section__desc {
+  font-size: 0.95rem;
+  color: var(--charcoal-mid);
+  max-width: 520px;
+  line-height: 1.7;
+  font-weight: 300;
+}
+
+.collection-section__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  margin-bottom: 36px;
+}
+
+.collection-section__footer {
+  text-align: right;
+}
+
+@media (max-width: 1024px) {
+  .collection-section__grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .collection-section__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .collection-section__footer {
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .collection-section__grid {
+    grid-template-columns: 1fr;
+  }
+}

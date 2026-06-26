@@ -1,0 +1,147 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Anika Anarkali Kurti",
+      "collection": "Kurtis",
+      "fabric": "Georgette with Chikankari",
+      "price": 1850,
+      "availability": "In Stock",
+      "image": "https://placehold.co/400x500/F2D9D0/4A1942?text=Anika+Kurti",
+      "whatsappMessage": "Hi! I'm interested in the Anika Anarkali Kurti (₹1850). Please share availability."
+    },
+    {
+      "id": 2,
+      "name": "Priya Cotton Printed Kurti",
+      "collection": "Kurtis",
+      "fabric": "Pure Cotton with Block Print",
+      "price": 1250,
+      "availability": "In Stock",
+      "image": "https://placehold.co/400x500/F2D9D0/4A1942?text=Priya+Kurti",
+      "whatsappMessage": "Hi! I'm interested in the Priya Cotton Printed Kurti (₹1250). Please share availability."
+    },
+    {
+      "id": 3,
+      "name": "Kavya Silk Straight Kurti",
+      "collection": "Kurtis",
+      "fabric": "Art Silk with Zari Border",
+      "price": 2800,
+      "availability": "Limited",
+      "image": "https://placehold.co/400x500/F2D9D0/4A1942?text=Kavya+Kurti",
+      "whatsappMessage": "Hi! I'm interested in the Kavya Silk Straight Kurti (₹2800). Please share availability."
+    },
+    {
+      "id": 4,
+      "name": "Meera Rayon Floral Kurti",
+      "collection": "Kurtis",
+      "fabric": "Viscose Rayon with Digital Print",
+      "price": 1450,
+      "availability": "In Stock",
+      "image": "https://placehold.co/400x500/F2D9D0/4A1942?text=Meera+Kurti",
+      "whatsappMessage": "Hi! I'm interested in the Meera Rayon Floral Kurti (₹1450). Please share availability."
+    },
+    {
+      "id": 5,
+      "name": "Zara Embroidered Kurta Set",
+      "collection": "Kurtis",
+      "fabric": "Cambric Cotton with Thread Embroidery",
+      "price": 3200,
+      "availability": "In Stock",
+      "image": "https://placehold.co/400x500/F2D9D0/4A1942?text=Zara+Kurta",
+      "whatsappMessage": "Hi! I'm interested in the Zara Embroidered Kurta Set (₹3200). Please share availability."
+    },
+    {
+      "id": 6,
+      "name": "Lakshmi Banarasi Silk Saree",
+      "collection": "Sarees",
+      "fabric": "Pure Banarasi Silk with Gold Zari",
+      "price": 8500,
+      "availability": "Limited",
+      "image": "https://placehold.co/400x500/E8D5F5/4A1942?text=Lakshmi+Saree",
+      "whatsappMessage": "Hi! I'm interested in the Lakshmi Banarasi Silk Saree (₹8500). Please share availability."
+    },
+    {
+      "id": 7,
+      "name": "Chanderi Floral Drape Saree",
+      "collection": "Sarees",
+      "fabric": "Chanderi Silk-Cotton with Floral Motifs",
+      "price": 4200,
+      "availability": "In Stock",
+      "image": "https://placehold.co/400x500/E8D5F5/4A1942?text=Chanderi+Saree",
+      "whatsappMessage": "Hi! I'm interested in the Chanderi Floral Drape Saree (₹4200). Please share availability."
+    },
+    {
+      "id": 8,
+      "name": "Kanjivaram Heritage Saree",
+      "collection": "Sarees",
+      "fabric": "Pure Kanjivaram Silk with Temple Border",
+      "price": 12000,
+      "availability": "Limited",
+      "image": "https://placehold.co/400x500/E8D5F5/4A1942?text=Kanjivaram+Saree",
+      "whatsappMessage": "Hi! I'm interested in the Kanjivaram Heritage Saree (₹12000). Please share availability."
+    },
+    {
+      "id": 9,
+      "name": "Devika Georgette Saree",
+      "collection": "Sarees",
+      "fabric": "Georgette with Embroidered Pallu",
+      "price": 3800,
+      "availability": "In Stock",
+      "image": "https://placehold.co/400x500/E8D5F5/4A1942?text=Devika+Saree",
+      "whatsappMessage": "Hi! I'm interested in the Devika Georgette Saree (₹3800). Please share availability."
+    },
+    {
+      "id": 10,
+      "name": "Bridal Zari Lehenga Choli",
+      "collection": "Lehengas",
+      "fabric": "Heavy Silk with Zardozi & Stone Work",
+      "price": 22000,
+      "availability": "Limited",
+      "image": "https://placehold.co/400x500/FFE8D6/4A1942?text=Bridal+Lehenga",
+      "whatsappMessage": "Hi! I'm interested in the Bridal Zari Lehenga Choli (₹22000). Please share availability."
+    },
+    {
+      "id": 11,
+      "name": "Navya Festive Lehenga",
+      "collection": "Lehengas",
+      "fabric": "Net with Sequence & Embroidery",
+      "price": 10500,
+      "availability": "In Stock",
+      "image": "https://placehold.co/400x500/FFE8D6/4A1942?text=Navya+Lehenga",
+      "whatsappMessage": "Hi! I'm interested in the Navya Festive Lehenga (₹10500). Please share availability."
+    },
+    {
+      "id": 12,
+      "name": "Ishita Party Wear Lehenga",
+      "collection": "Lehengas",
+      "fabric": "Velvet with Mirror Work",
+      "price": 14500,
+      "availability": "In Stock",
+      "image": "https://placehold.co/400x500/FFE8D6/4A1942?text=Ishita+Lehenga",
+      "whatsappMessage": "Hi! I'm interested in the Ishita Party Wear Lehenga (₹14500). Please share availability."
+    }
+  ],
+  "collections": [
+    {
+      "id": "kurtis",
+      "name": "Kurtis",
+      "tagline": "Everyday Elegance",
+      "description": "Handpicked kurtis in luxurious fabrics — from breezy cottons to resplendent silks, crafted for the modern Indian woman.",
+      "image": "https://placehold.co/600x400/F2D9D0/4A1942?text=Kurtis+Collection"
+    },
+    {
+      "id": "sarees",
+      "name": "Sarees",
+      "tagline": "Timeless Grace",
+      "description": "Exquisite sarees from the finest weaving traditions of India — Banarasi, Chanderi, and Kanjivaram, reimagined for today.",
+      "image": "https://placehold.co/600x400/E8D5F5/4A1942?text=Sarees+Collection"
+    },
+    {
+      "id": "lehengas",
+      "name": "Lehengas",
+      "tagline": "Bridal Splendour",
+      "description": "Statement lehengas for brides, bridesmaids, and festive occasions — adorned with zardozi, mirrors, and heritage craftsmanship.",
+      "image": "https://placehold.co/600x400/FFE8D6/4A1942?text=Lehengas+Collection"
+    }
+  ]
+}
